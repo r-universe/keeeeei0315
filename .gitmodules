@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GARCHSK"]
+	path = GARCHSK
+	url = https://github.com/cran/GARCHSK
+	shallow = true
+	registered = true
+[submodule "ksNN"]
+	path = ksNN
+	url = https://github.com/cran/ksNN
+	shallow = true
+	registered = true
+[submodule "xdcclarge"]
+	path = xdcclarge
+	url = https://github.com/cran/xdcclarge
+	shallow = true
+	registered = true
